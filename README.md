@@ -1,5 +1,5 @@
 ## Install Dependencies
-Install Metamask Chrome Extension (this dapp not yet tested in any other browser)  
+Install Metamask Extension
 
 ## Steps
 1. Deploy landContract_NEW.sol from contract folder in remix (use Metamask injected web3 environment)  
